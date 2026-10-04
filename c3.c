@@ -6,8 +6,8 @@ int main()
     for (i=1; i<=10; i++)
     {
         
-       
+         printf("%d\n",sum = sum + n*i);
 
-    }  printf("%d\n",sum = sum + n*i);
+    }
    return 0;
 }
